@@ -1,6 +1,6 @@
 # Passio Platform Android SDK
 
-[![release](https://img.shields.io/badge/release-v2.2.12-brightgreen)](https://search.maven.org/artifact/ai.passio.passiosdk/platformsdk/2.2.12/aar)    [![release](https://img.shields.io/badge/platform-Android-lightgray)]() [![release](https://img.shields.io/badge/minimum--suported--version-26-lightgray)](https://developer.android.com/about/versions/oreo)  [![release](https://img.shields.io/badge/Kotlin-v1.6.10-informational)](https://github.com/JetBrains/kotlin/releases/tag/v1.6.10)
+[![release](https://img.shields.io/badge/release-v2.2.12-brightgreen)](https://search.maven.org/artifact/ai.passio.passiosdk/platformsdk/2.2.12/aar)    [![release](https://img.shields.io/badge/platform-Android-lightgray)]() [![release](https://img.shields.io/badge/minimum--supported--version-26-lightgray)](https://developer.android.com/about/versions/oreo)  [![release](https://img.shields.io/badge/Kotlin-v1.6.10-informational)](https://github.com/JetBrains/kotlin/releases/tag/v1.6.10)
 
 ## Overview:
 
